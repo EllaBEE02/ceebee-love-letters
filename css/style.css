@@ -1,0 +1,25 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+body {
+  background: #eee8f5;
+  font-family: sans-serif;
+}
+
+label {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+select {
+  font-size: 18px;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 4px;
+  padding: 8px;
+}
