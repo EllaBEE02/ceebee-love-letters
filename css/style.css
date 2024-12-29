@@ -6,14 +6,49 @@
   border-radius: 10px;
 }
 
+.sign {
+  font-size: 12px;
+  margin: 0;
+}
+
+.letter {
+  padding: 10px 20px 20px 20px;
+  border-bottom: 1px dashed grey;
+}
+
+.letter:last-child {
+  border: none;
+}
+
 body {
   background: #eee8f5;
   font-family: sans-serif;
 }
 
-label {
+/* label {
   font-size: 28px;
   font-weight: bold;
+  display: block;
+  margin: 0 auto;
+} */
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+img:hover {
+  opacity: 70%;
+  transform: scale(1.02);
+  transition: all 150ms ease-in-out;
 }
 
 select {
@@ -22,6 +57,12 @@ select {
   margin-top: 20px;
   border-radius: 4px;
   padding: 8px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 0px;
+  font-weight: 300;
 }
 
 footer {
