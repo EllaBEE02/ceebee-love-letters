@@ -15,7 +15,7 @@ function showEmotion(response) {
 
 let letter2Element = document.querySelector("#letter-2");
 letter2Element.innerHTML = "Please check-in tomorrow for more letters from BEE";
-letter2Element.style.opacity = 0.7;
+letter2Element.style.opacity = 0.5;
 
 let heartRateElement = document.querySelector("#heart-rate");
 heartRateElement.addEventListener("change", showEmotion);
