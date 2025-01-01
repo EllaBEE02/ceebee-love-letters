@@ -40,7 +40,7 @@ h1 {
 }
 
 .happy-new-year {
-  max-width: 45%;
+  max-width: 100%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
@@ -98,4 +98,8 @@ footer {
   background: linear-gradient(#cb586a, #842737);
   color: white;
   line-height: 1.5;
+}
+
+.letter-3 {
+  border: none;
 }
