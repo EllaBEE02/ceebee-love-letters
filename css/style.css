@@ -1,10 +1,10 @@
-.container {
+/* .container {
   max-width: 600px;
   margin: 40px auto;
   background: white;
   padding: 20px;
   border-radius: 10px;
-}
+} */
 
 .sign {
   font-size: 12px;
@@ -32,12 +32,32 @@ body {
   margin: 0 auto;
 } */
 
-h1 {
+/* h1 {
   font-size: 28px;
   font-weight: bold;
   text-align: center;
   margin-bottom: 0px;
+} */
+
+.love-style {
+  color: #e1a1f1;
 }
+
+.faith-style {
+  color: #e1a1f1;
+}
+
+.smaller-text {
+  font-size: 15px;
+}
+
+.larger-text {
+  font-size: 20px;
+}
+
+/* .alive-style {
+  color: #FB91B8;
+} */
 
 .happy-new-year {
   max-width: 100%;
