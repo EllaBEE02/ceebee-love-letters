@@ -48,12 +48,9 @@ body {
 }
 
 .smaller-text {
-  font-size: 15px;
+  font-size: 16px;
 }
 
-.larger-text {
-  font-size: 20px;
-}
 
 /* .alive-style {
   color: #FB91B8;
